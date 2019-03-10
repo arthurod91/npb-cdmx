@@ -1,6 +1,5 @@
 #=
-This is a program to calculate the position of the node for
-the districts of transit
+This is a program to calculate the position of the node for a district of transit
 =#
 
 struct District_of_transit
