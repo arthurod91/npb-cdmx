@@ -1,1 +1,3 @@
-# Software utilizado para optimizar el diseño del plan bici CDMX
+# Software utilizado para el diseño del plan bici CDMX
+
+Estudios y paquetería para el diseño
